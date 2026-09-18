@@ -1,11 +1,18 @@
 {
-  "id": "static-secrets",
-  "title": "Static Secrets",
-  "category": "lab",
-  "href": "index.html?url=https%3A%2F%2Fmath.cognotik.com%2Fexperiments%2Fstatic-secrets%2Fdemo-site%2Findex.ssec",
-  "readme": "README.md",
-  "order": 12,
-  "section": "featured",
-  "icon": "🔒",
-  "pitch": "Publish encrypted content anywhere and decrypt it entirely in your browser. The host serves opaque bytes; only you hold the key."
+    "id": "static-secrets",
+    "title": "Static Secrets",
+    "description": "Publish encrypted content anywhere and decrypt it entirely in your browser. The host serves opaque bytes; only you hold the key.",
+    "tags": [
+        "cryptography",
+        "pwa",
+        "privacy",
+        "web-crypto",
+        "static-hosting"
+    ],
+    "category": "labs",
+    "href": "index.html?url=https%3A%2F%2Fmath.cognotik.com%2Fexperiments%2Fstatic-secrets%2Fdemo-site%2Findex.ssec",
+    "readme": "README.md",
+    "order": 12,
+    "section": "featured",
+    "icon": "🔒"
 }
